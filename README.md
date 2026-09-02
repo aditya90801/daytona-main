@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 [![Documentation](https://img.shields.io/github/v/release/daytonaio/docs?label=Docs&color=23cc71)](https://www.daytona.io/docs)
@@ -136,3 +137,6 @@ main().catch(console.error)
 ## Contributing
 
 Daytona is Open Source under the [GNU AFFERO GENERAL PUBLIC LICENSE](LICENSE), and is the [copyright of its contributors](NOTICE). If you would like to contribute to the software, read the Developer Certificate of Origin Version 1.1 (https://developercertificate.org/). Afterwards, navigate to the [contributing guide](CONTRIBUTING.md) to get started.
+=======
+# daytona-main
+>>>>>>> 7506243b361c9cee67af1a3267dec969441a94aa
